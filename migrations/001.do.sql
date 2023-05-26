@@ -1,0 +1,4 @@
+CREATE TABLE movies (
+  id INTEGER PRIMARY KEY,
+  title VARCHAR(255) NOT NULL
+);
